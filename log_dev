@@ -1,0 +1,510 @@
+commit 7a6804b3303313adee1f34a592678b04c8ff3472
+Author: Mickael Vilayvanh (machine) <mickael.vilayvanh@edu.univ-eiffel.fr>
+Date:   Fri Jan 13 18:43:26 2023 +0100
+
+    Ajout des documentations manquantes
+
+commit 2ed2ede1428f2b3200406537093e5f29601b9970
+Author: Valentin Bernier <valentin.bernier@edu.univ-eiffel.fr>
+Date:   Fri Jan 13 17:26:35 2023 +0100
+
+    Ajout du log_dev à jour (ou presque à cause de ce commit)
+
+commit 62cb40eb24180de871c798093e7e1a4330dea5d4
+Author: Mickael Vilayvanh (machine) <mickael.vilayvanh@edu.univ-eiffel.fr>
+Date:   Fri Jan 13 17:21:54 2023 +0100
+
+    Reinitialisation du leaderboard
+
+commit 09de3f9818a7d07e08ae459e33419ec7f0739598
+Author: Valentin Bernier <valentin.bernier@edu.univ-eiffel.fr>
+Date:   Fri Jan 13 17:03:34 2023 +0100
+
+    Correction de la condition de victoire
+
+commit 3b62ccae6143abfab1c23e951163d25831be1563
+Author: Mickael Vilayvanh (machine) <mickael.vilayvanh@edu.univ-eiffel.fr>
+Date:   Fri Jan 13 16:56:21 2023 +0100
+
+    Correction du seuil de mana et consommation de mana
+
+commit df86050e0f04b3c2b97590aeef9e4c164a8ad800
+Author: Mickael Vilayvanh (machine) <mickael.vilayvanh@edu.univ-eiffel.fr>
+Date:   Fri Jan 13 16:51:17 2023 +0100
+
+    Correction consomation de mana
+
+commit 68db8987068e0136067334aba1c6bf96180f441c
+Author: Mickael Vilayvanh (machine) <mickael.vilayvanh@edu.univ-eiffel.fr>
+Date:   Fri Jan 13 16:45:25 2023 +0100
+
+    Correction consommation de mana et seuil de mana pour l'activation des spells
+
+commit a2d9be620274e4dfc9bb0865e51e9f6d35193318
+Author: Mickael Vilayvanh (machine) <mickael.vilayvanh@edu.univ-eiffel.fr>
+Date:   Thu Jan 12 20:57:11 2023 +0100
+
+    Supression fichier nomme test
+
+commit 754ed756bf94c45e257aa42fe40a2f124e1008e3
+Merge: 55d7432 caaad6d
+Author: Mickael Vilayvanh (machine) <mickael.vilayvanh@edu.univ-eiffel.fr>
+Date:   Thu Jan 12 20:54:51 2023 +0100
+
+    Merge branch 'master' of https://git-etud.u-pem.fr/projet_infiltration
+
+commit 55d74328d99e947436b7f65fadda50dfee088a78
+Author: Mickael Vilayvanh (machine) <mickael.vilayvanh@edu.univ-eiffel.fr>
+Date:   Thu Jan 12 20:52:43 2023 +0100
+
+    Ajout de la redistribution de mana dans les cases
+
+commit caaad6df76b7ea777fa57713583f4fd9400381d7
+Author: Valentin Bernier <valentin.bernier@edu.univ-eiffel.fr>
+Date:   Thu Jan 12 17:53:27 2023 +0100
+
+    Changement du nom de la fenêtre
+
+commit b9a33d336570b4495fdcdbab86ec1dc14fb99c95
+Author: Valentin Bernier <valentin.bernier@edu.univ-eiffel.fr>
+Date:   Thu Jan 12 17:49:38 2023 +0100
+
+    Changement de l'emplacement de la boucle principale + Suppression des fichiers superflus + Changement du nom de l'executable
+
+commit e05fcfee685101e9ffd930cd7e12f7b8a7d5794c
+Author: Mickael Vilayvanh (machine) <mickael.vilayvanh@edu.univ-eiffel.fr>
+Date:   Thu Jan 12 17:35:48 2023 +0100
+
+    Finition de l'affichage graphique du score
+
+commit ecda32ba54f155f4073add9d516f2a550005513d
+Author: Valentin Bernier <valentin.bernier@edu.univ-eiffel.fr>
+Date:   Thu Jan 12 17:28:27 2023 +0100
+
+    Ajout de documentations
+
+commit 2a646a55a8c2731f7355ccb46be6eeeb2d927883
+Author: Valentin Bernier <valentin.bernier@edu.univ-eiffel.fr>
+Date:   Thu Jan 12 17:02:11 2023 +0100
+
+    Correction de la boucle principale
+
+commit a3db388ca50d41d90c04596279d0857620737c22
+Author: Valentin Bernier <valentin.bernier@edu.univ-eiffel.fr>
+Date:   Thu Jan 12 17:01:19 2023 +0100
+
+    Ajout d'une interface pour que le joueur entre son nom après une victoire
+
+commit b264fecd9cf7bbff9542209c45db6a57376716f4
+Author: Valentin Bernier <valentin.bernier@edu.univ-eiffel.fr>
+Date:   Thu Jan 12 16:25:22 2023 +0100
+
+    Ajout des écrans de défaite/victoire
+
+commit 404d6963f721c4d5418288e97c65fad53356b774
+Author: Valentin Bernier <valentin.bernier@edu.univ-eiffel.fr>
+Date:   Thu Jan 12 16:08:00 2023 +0100
+
+    Ajout d'une polic de caractères + refonte graphique de l'interface en jeu + ajout d'une possibilité de quitter la partie + Ajout d'une limite maximum de mana possédée
+
+commit f391c9b878785d5ef6d81b767e41fef8ad67cb80
+Author: Valentin Bernier <valentin.bernier@edu.univ-eiffel.fr>
+Date:   Thu Jan 12 15:32:34 2023 +0100
+
+    Ajout de la libération de mémoire pour la map et les images + Changement du nom du module ImageData vers Data
+
+commit f03e261eb6af26c2d86ce69e9f32093aad95029e
+Merge: 0964813 1c21f96
+Author: Valentin Bernier <valentin.bernier@edu.univ-eiffel.fr>
+Date:   Thu Jan 12 00:44:38 2023 +0100
+
+    Merge remote-tracking branch 'refs/remotes/origin/master'
+
+commit 09648130ab3c728d207df696dd5754cd50dcd8b1
+Author: Valentin Bernier <valentin.bernier@edu.univ-eiffel.fr>
+Date:   Thu Jan 12 00:44:03 2023 +0100
+
+    Correction d'un bug provoquant parfois une erreur de segmentation lorsque le mode panique s'active et qu'un ennemi se trouve sur le bord de l'écran
+
+commit 1c21f96d5e1913f1f0f8cff7bf295b6864d00cc8
+Merge: 0a648f5 125026d
+Author: Mickael Vilayvanh (machine) <mickael.vilayvanh@edu.univ-eiffel.fr>
+Date:   Thu Jan 12 00:18:53 2023 +0100
+
+    Merge remote-tracking branch 'refs/remotes/origin/master'
+
+commit 0a648f589e01688420584f3267b91b1b2518597f
+Author: Mickael Vilayvanh (machine) <mickael.vilayvanh@edu.univ-eiffel.fr>
+Date:   Thu Jan 12 00:16:53 2023 +0100
+
+    Finition entree/sortie du fichier binaire pour le classement
+
+commit 125026dab4e311f7e94da8d6ad9dbfc519655b38
+Author: Valentin Bernier <valentin.bernier@edu.univ-eiffel.fr>
+Date:   Wed Jan 11 22:41:14 2023 +0100
+
+    Modification du calcul tu temps d'une frame + Ajout de documentations
+
+commit 910490fec93becaac26f665439e10527e381df1c
+Author: Valentin Bernier <valentin.bernier@edu.univ-eiffel.fr>
+Date:   Wed Jan 11 20:55:44 2023 +0100
+
+    Modification de la façon dont les enemies changent de direction en rencontrant un mur en mode panique
+
+commit 5db3e9745a2276a48a9358389c21e3b73fa36db2
+Author: Mickael Vilayvanh (machine) <mickael.vilayvanh@edu.univ-eiffel.fr>
+Date:   Wed Jan 11 17:37:50 2023 +0100
+
+    Correction de la main loop ayant ete modifie pour des tests
+
+commit b68e9ffc448f8323aca79fcbaa0f83396543eaca
+Merge: 6ad7b0c ad5e926
+Author: Mickael Vilayvanh (machine) <mickael.vilayvanh@edu.univ-eiffel.fr>
+Date:   Wed Jan 11 17:35:04 2023 +0100
+
+    Merge remote-tracking branch 'refs/remotes/origin/master'
+
+commit 6ad7b0c4113da5f3bb29ea110ffaad23cc9ea003
+Author: Mickael Vilayvanh (machine) <mickael.vilayvanh@edu.univ-eiffel.fr>
+Date:   Wed Jan 11 17:33:42 2023 +0100
+
+    Ajout du classement (Work in progress)
+
+commit ad5e92638eff2cc6eee4d52d11d7e4e764657606
+Author: Valentin Bernier <valentin.bernier@edu.univ-eiffel.fr>
+Date:   Wed Jan 11 13:32:54 2023 +0100
+
+    Modification des collisions entre les ennemies et les murs + correction d'un bug sur la vitesse des ennemies
+
+commit a42c95ee27ca40054c26d4d80b6091e560177ce5
+Author: Valentin Bernier <valentin.bernier@edu.univ-eiffel.fr>
+Date:   Wed Jan 11 13:17:05 2023 +0100
+
+    Modification de la façon dont est stockée et utilisée la vitesse des ennemies
+
+commit 1972ef864e5a8fd7af3acf6fe39c0d84fa05f1c4
+Author: Valentin Bernier <valentin.bernier@edu.univ-eiffel.fr>
+Date:   Wed Jan 11 13:07:04 2023 +0100
+
+    Modification du point d'appartition sur le menu
+
+commit 70d2de115cb0abccd7299ab87a5a2fe040722f60
+Author: Valentin Bernier <valentin.bernier@edu.univ-eiffel.fr>
+Date:   Tue Jan 10 20:55:56 2023 +0100
+
+    Correction d'un bug
+
+commit fad045e8bfb04db53f12c3b89116dfcc22cf38ba
+Author: Valentin Bernier <valentin.bernier@edu.univ-eiffel.fr>
+Date:   Tue Jan 10 20:54:38 2023 +0100
+
+    Ajout d'un effet visuel pour la capacité de vitesse
+
+commit 71487bc6239d2de24f743b7ce3a2aa27e6fbc7d9
+Merge: 0dc29f2 54f2a12
+Author: Valentin Bernier <valentin.bernier@edu.univ-eiffel.fr>
+Date:   Tue Jan 10 20:52:50 2023 +0100
+
+    Merge remote-tracking branch 'refs/remotes/origin/master'
+
+commit 0dc29f21b49c3f8be087bdcbf0732ca1e19b0ce4
+Author: Valentin Bernier <valentin.bernier@edu.univ-eiffel.fr>
+Date:   Tue Jan 10 20:48:44 2023 +0100
+
+    Gestion de la victoire et de la défaite + amélioration des boutons du menu + correction d'un bug d'affichage des reliques + Ajout d'un affichage pour la compétence de vitesse
+
+commit 54f2a12c7375b648b0a35276daa02a71680e2eb6
+Author: Valentin Bernier <valentin.bernier@edu.univ-eiffel.fr>
+Date:   Tue Jan 10 20:48:44 2023 +0100
+
+    Gestion de la victoire et de la défaite + amélioration des boutons du menu + correction d'un bug d'affichage des reliques
+
+commit 66084bcb601b4ad1f5ab81ef04f66755c4e183a1
+Author: Valentin Bernier <valentin.bernier@edu.univ-eiffel.fr>
+Date:   Tue Jan 10 20:29:14 2023 +0100
+
+    Correction d'un bug lié aux boutons du menu
+
+commit 4ed59aa29d13dff02ae7404ce82d7d88d8fd37ab
+Author: Valentin Bernier <valentin.bernier@edu.univ-eiffel.fr>
+Date:   Tue Jan 10 20:22:37 2023 +0100
+
+    Ajout des interactions avec les boutons du menu
+
+commit 39000b6fd273db7409ab73c901ad658d3c1ee692
+Author: Valentin Bernier <valentin.bernier@edu.univ-eiffel.fr>
+Date:   Tue Jan 10 19:32:06 2023 +0100
+
+    Correction de l'affichage des reliques
+
+commit 0ccf52979ae3bc68dcc4f6130fa3fc34a0a5d233
+Author: Valentin Bernier <valentin.bernier@edu.univ-eiffel.fr>
+Date:   Tue Jan 10 19:24:50 2023 +0100
+
+    Création du menu principal : Affichage, Tutoriel. (Actions des boutons à faire)
+
+commit df5ff39799a13a8f8c587a1cbfceb2ff83a842ff
+Author: Mickael Vilayvanh (machine) <mickael.vilayvanh@edu.univ-eiffel.fr>
+Date:   Tue Jan 10 15:59:22 2023 +0100
+
+    Correction d'un bug de collision
+
+commit fbda547f233d141cdfbedf0f9e2d9cad5cac9daf
+Author: Valentin Bernier <valentin.bernier@edu.univ-eiffel.fr>
+Date:   Tue Jan 10 14:38:53 2023 +0100
+
+    Affichage du mode panique des ennemies
+
+commit 3985c95fcd11091275140a4cb29c5e1ceedc2ae0
+Author: Valentin Bernier <valentin.bernier@edu.univ-eiffel.fr>
+Date:   Tue Jan 10 14:08:31 2023 +0100
+
+    Ajout de la récupération des reliques par le joueur et Ajout de la detection des reliques manquantes par les ennemies pour activer/desactiver le mode panique
+
+commit e5203b091c076867d9f8cafdcb3ab714abaebc14
+Author: Valentin Bernier <valentin.bernier@edu.univ-eiffel.fr>
+Date:   Mon Jan 9 21:35:40 2023 +0100
+
+    Ajout des reliques + affichage (Récupération à ajouter + détection des gardiens
+
+commit 6fcdd4fde8663d01fb66ba3437e806be8e5a15ee
+Author: Mickael Vilayvanh (machine) <mickael.vilayvanh@edu.univ-eiffel.fr>
+Date:   Mon Jan 9 17:26:08 2023 +0100
+
+    Ajout de commentaires et documentations avec changement mineurs concernant les collisions
+
+commit 0e3db3f2e9be308c6b6466b2c6e3c479c62435cc
+Author: Mickael Vilayvanh (machine) <mickael.vilayvanh@edu.univ-eiffel.fr>
+Date:   Sun Jan 8 17:32:24 2023 +0100
+
+    Finition des detection de collision contre les murs
+
+commit 8502edf120e717d675abe343ad02fc41e09f05c4
+Author: Mickael Vilayvanh (machine) <mickael.vilayvanh@edu.univ-eiffel.fr>
+Date:   Sat Jan 7 19:01:58 2023 +0100
+
+    Ajout du module collide (Work in progress)
+
+commit c2dfa6735a0d0d54c218003ee1eeb09668ed4d52
+Author: Valentin Bernier <valentin.bernier@edu.univ-eiffel.fr>
+Date:   Fri Jan 6 22:31:51 2023 +0100
+
+    Ajout d'un menu principal (Work in progress)
+
+commit 99bab7726e597dd65c1d819c8322591de18c4f0a
+Author: Valentin Bernier <valentin.bernier@edu.univ-eiffel.fr>
+Date:   Fri Jan 6 21:40:51 2023 +0100
+
+    Ajout d'un module Menu et légère restructuration du main
+
+commit 511bab4e80c54ec2c40580cb8da2d093ef709de4
+Author: Valentin Bernier <valentin.bernier@edu.univ-eiffel.fr>
+Date:   Fri Jan 6 21:33:22 2023 +0100
+
+    Ajout de l'entrée/sortie + ajout d'un compteur numérique pour la mana
+
+commit 074a86a0c794c0d2e5c01e3ddf20693bc08455df
+Author: Valentin Bernier <valentin.bernier@edu.univ-eiffel.fr>
+Date:   Fri Jan 6 21:06:09 2023 +0100
+
+    Déplacement de la boucle de jeu vers un nouveau module Game
+
+commit b4b862b3d9540d4aabd8ec6456f99495d2e2d3fa
+Author: Valentin Bernier <valentin.bernier@edu.univ-eiffel.fr>
+Date:   Thu Jan 5 19:20:50 2023 +0100
+
+    Gestion du framerate
+
+commit 55d6f7032b2710ff08c7ab8345a0d11b2b254cae
+Author: Mickael Vilayvanh (machine) <mickael.vilayvanh@edu.univ-eiffel.fr>
+Date:   Thu Jan 5 17:17:27 2023 +0100
+
+    Ajout de quelques documentations de fonction et commentaires de code. Modifications mineures pour rendre certaines fonctions plus lisibles.
+
+commit cb98272325de37f517c8815c23a15460502c56db
+Author: Mickael Vilayvanh (machine) <mickael.vilayvanh@edu.univ-eiffel.fr>
+Date:   Wed Jan 4 23:36:17 2023 +0100
+
+    Ajout de l'affichage de la jauge de mana. Modification mineure dans le module map pour avoir le montant exact de mana disponible dans le terrain genere.
+
+commit 1b0ed557bdb236d4c893fec8b0ed9062ab23fd1c
+Author: Mickael Vilayvanh (machine) <mickael.vilayvanh@edu.univ-eiffel.fr>
+Date:   Wed Jan 4 22:47:37 2023 +0100
+
+    Recuperation de la mana dans les cases touchees par le joueur. Ajout de certaines documentations.
+
+commit 8259fb7958770ceb895a500df0ab6e830dc78f03
+Author: Valentin Bernier <valentin.bernier@edu.univ-eiffel.fr>
+Date:   Wed Jan 4 20:16:40 2023 +0100
+
+    Ajout d'une apparence particulière pour le joueur lorsqu'il est invisible
+
+commit e2bc07ac30fe92085b6d463a28fbdc7798af2960
+Author: Valentin Bernier <valentin.bernier@edu.univ-eiffel.fr>
+Date:   Wed Jan 4 20:12:41 2023 +0100
+
+    Prise en compte de l'invisibilité dans le champs de vision des ennemies + correction d'un bug avec l'invisibilité
+
+commit 5817906032be38eacd940ccbbee9ab0ce957bb40
+Author: Valentin Bernier <valentin.bernier@edu.univ-eiffel.fr>
+Date:   Wed Jan 4 19:58:22 2023 +0100
+
+    Champs de vision des ennemies (version complète)
+
+commit 26219c2f4d1a614c11947be1de2fc0b7a632cfbd
+Author: Valentin Bernier <valentin.bernier@edu.univ-eiffel.fr>
+Date:   Wed Jan 4 19:38:18 2023 +0100
+
+    Gestion du champs de vision des enemis (Work in progress)
+
+commit 3123e6c505d73fc39bb42ff0157ac1164d6f4c29
+Author: Mickael Vilayvanh (machine) <mickael.vilayvanh@edu.univ-eiffel.fr>
+Date:   Wed Jan 4 01:16:18 2023 +0100
+
+    Ajout des competences et leur gestion
+
+commit 398c615ffc9857ef6d812e4f0ed6d217e271e44b
+Author: Valentin Bernier <valentin.bernier@edu.univ-eiffel.fr>
+Date:   Wed Jan 4 00:15:38 2023 +0100
+
+    Correctifs liés aux déplacements du joueur
+
+commit 8f6310bb1b4c1e518902eeb7ed54f7a7534d4227
+Author: Valentin Bernier <valentin.bernier@edu.univ-eiffel.fr>
+Date:   Tue Jan 3 23:48:14 2023 +0100
+
+    Passage des types coordonnées de int vers double
+
+commit 25f9cca4decc41de9b588cdf7b8af32aa12c1136
+Author: Valentin Bernier <valentin.bernier@edu.univ-eiffel.fr>
+Date:   Tue Jan 3 23:29:33 2023 +0100
+
+    Déplacement des enemis + activation du mode panique
+
+commit 254692a2f1a3c5b586d4be77928ce689b144e7d1
+Merge: 4b5c19f f7cc2ca
+Author: Valentin Bernier <valentin.bernier@edu.univ-eiffel.fr>
+Date:   Tue Jan 3 22:34:01 2023 +0100
+
+    Ajout de l'initialisation et de l'affichage des enemis + correctifs
+
+commit 4b5c19f2572c90b3c90667a9ffd485948fe16cfb
+Author: Valentin Bernier <valentin.bernier@edu.univ-eiffel.fr>
+Date:   Tue Jan 3 22:28:15 2023 +0100
+
+    Ajout de l'initialisation et de l'affichage des enemis + correctifs
+
+commit f7cc2ca6fac1e74c3d4debe145c0575377ffd8e8
+Author: Mickael Vilayvanh (machine) <mickael.vilayvanh@edu.univ-eiffel.fr>
+Date:   Tue Jan 3 22:08:08 2023 +0100
+
+    Ajout des directions en diagonale
+
+commit 2d7bbde9aaed415af310bf35ccb91f07d6d9c111
+Merge: 339a31f 6d6bdc6
+Author: Mickael Vilayvanh (machine) <mickael.vilayvanh@edu.univ-eiffel.fr>
+Date:   Tue Jan 3 21:20:02 2023 +0100
+
+    Merge remote-tracking branch 'refs/remotes/origin/master'
+
+commit 339a31f191ab21bb5f8b0fca0e3ca9f7ded9e8c4
+Author: Mickael Vilayvanh (machine) <mickael.vilayvanh@edu.univ-eiffel.fr>
+Date:   Tue Jan 3 21:19:22 2023 +0100
+
+    Correction gestion des deplacements
+
+commit 6d6bdc6230d28a2b2813b9c0f6e09bccc475b251
+Author: Valentin Bernier <valentin.bernier@edu.univ-eiffel.fr>
+Date:   Tue Jan 3 20:40:05 2023 +0100
+
+    Refonte du stockage en mémoire des cases contenant de la mana, initialisation de ces cases et affichage avec libMLV
+
+commit 38b865f513c2535ff6ffbeb427d1a04c604c5966
+Author: Valentin Bernier <valentin.bernier@edu.univ-eiffel.fr>
+Date:   Tue Jan 3 20:09:46 2023 +0100
+
+    Modifications graphiques et changement de l'emplacement de départ du joueur
+
+commit 8acbcff830490b5f9d70bbeefb0e40e66fc328a8
+Author: Mickael Vilayvanh (machine) <mickael.vilayvanh@edu.univ-eiffel.fr>
+Date:   Tue Jan 3 17:32:51 2023 +0100
+
+    Ajustement de la vitesse et ajout d'une fonction round dans le module Util
+
+commit ebbeeff2aee879b3e5b49647e81bbfb9142ad41b
+Author: Valentin Bernier <valentin.bernier@edu.univ-eiffel.fr>
+Date:   Tue Jan 3 14:52:15 2023 +0100
+
+    Correction d'un bug dû à l'ajout du type énuméré
+
+commit d6fa38af989afbac873f309995783923b6ab586e
+Author: Valentin Bernier <valentin.bernier@edu.univ-eiffel.fr>
+Date:   Tue Jan 3 14:41:07 2023 +0100
+
+    Ajout d'un type énuméré pour représenter les cases du terrain
+
+commit 871d15839e508e6d944098efc91d2758ced560f3
+Author: Mickael Vilayvanh (machine) <mickael.vilayvanh@edu.univ-eiffel.fr>
+Date:   Mon Jan 2 17:06:32 2023 +0100
+
+    Ajustement de la vitesse
+
+commit a1195da135913ea66bab66a89586034beb48f500
+Author: Mickael Vilayvanh (machine) <mickael.vilayvanh@edu.univ-eiffel.fr>
+Date:   Mon Jan 2 16:38:49 2023 +0100
+
+    Correction du deplacement du joueur et mise a jour des inputs
+
+commit 37662de412f27abbaae3e3fd285f4270e89f8fc1
+Author: Valentin Bernier <valentin.bernier@edu.univ-eiffel.fr>
+Date:   Mon Jan 2 15:53:06 2023 +0100
+
+    MAJ des documentations de GUI.c + Ajout des structures pour gérer les reliques dans le nouveau module Relics
+
+commit 61bd425d8a0c5b76c8b4b1057d97364f63f4ae59
+Author: Valentin Bernier <valentin.bernier@edu.univ-eiffel.fr>
+Date:   Mon Jan 2 15:31:41 2023 +0100
+
+    Ajout de l'affichage du terrain via libMLV et misa à jour des fonctionnalités générales d'affichage
+
+commit 66c427672691ed2abffc11252fd69f066cf40282
+Author: Valentin Bernier <valentin.bernier@edu.univ-eiffel.fr>
+Date:   Mon Jan 2 15:02:13 2023 +0100
+
+    Ajout d'un module utilitaire avec une fonction min
+
+commit 096071ff593b60bbc2eb86a4640536f83dcf553e
+Author: Valentin Bernier <valentin.bernier@edu.univ-eiffel.fr>
+Date:   Mon Jan 2 14:36:26 2023 +0100
+
+    Ajout de la generation de terrain
+
+commit fac5533ab35d82dfca89664871ef0bd78fb9ac19
+Author: Mickael Vilayvanh (machine) <mickael.vilayvanh@edu.univ-eiffel.fr>
+Date:   Sun Jan 1 19:09:00 2023 +0100
+
+    Ajout des module gameplay, direction et GUI. Gestion de la velocite du joueur et des inputs en cours.
+
+commit 4bc61c882000866e9ef3267e8c805c995e49e184
+Author: Mickael Vilayvanh <mickael.vilayvanh@edu.univ-eiffel.fr>
+Date:   Tue Dec 27 19:40:49 2022 +0100
+
+    Ajout du debut des modules test et player. Modification du makefile
+
+commit 1208bff375709e7672860d28d620f268eeadcd67
+Author: Valentin Bernier <valentin.bernier@edu.univ-eiffel.fr>
+Date:   Tue Dec 27 14:46:43 2022 +0100
+
+    suppression main.c
+
+commit 6cd7479fb25b2ab45c23d51d0d37f997caaf551b
+Author: Valentin Bernier <valentin.bernier@edu.univ-eiffel.fr>
+Date:   Tue Dec 27 14:44:26 2022 +0100
+
+    Ajout des dossiers principaux
+
+commit dc96d3a666d0fea69cca1a900d9b6995632777b9
+Author: Valentin Bernier <valentin.bernier@edu.univ-eiffel.fr>
+Date:   Tue Dec 27 14:36:58 2022 +0100
+
+    Initialisation
